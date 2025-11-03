@@ -44,19 +44,19 @@
 ### GitHub Streak
 
 <div align="center">
-    <img width=390 src="https://streak-stats.demolab.com/?user=Gabrielbanda08&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://streak-stats.demolab.com/?user=Gabriel-Banda&count_private=true&theme=transparent&border_radius=10" alt="streak stats"/>
     <img
-<img src="http://github-readme-stats.vercel.app/api/top-langs?username=Gabrielbanda08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
+<img src="http://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Banda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"/>
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabrielbanda08&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Banda&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 </div>
 
 ###
 
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Gabrielbanda08&label=Profile%20Views&color=1&icon=2&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=Gabriel-Banda&label=Profile%20Views&color=1&icon=2&pretty=true" />
   </a>
 </div>
 
