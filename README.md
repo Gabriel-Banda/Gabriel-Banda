@@ -53,6 +53,22 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Banda&hide_title=false&hide=contribs,issues&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"/>
 </div>
 
+<!-- START Contribution Graph SECTION -->
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
+	
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Banda&theme=gotham" align="center" />
+</p>
+	
+<p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel-Banda&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+</p>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
+<!-- END Contribution Graph SECTION -->
+
 ###
 
   <a href="https://visitcount.itsvg.in">
